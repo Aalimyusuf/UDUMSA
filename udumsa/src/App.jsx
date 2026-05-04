@@ -4,6 +4,7 @@ import Hero from "./pages/Hero/Hero";
 import About from "./pages/About/About";
 import Events from "./pages/Events/Events";
 import Upcoming from "./pages/Upcoming/Upcoming";
+import News from "./pages/News/News";
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
       <About />
       <Events />
       <Upcoming />
+      <News />
     </main>
   );
 };
