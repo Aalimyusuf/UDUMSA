@@ -3,6 +3,7 @@ import Navbar from "./pages/Navbar/Navbar";
 import Hero from "./pages/Hero/Hero";
 import About from "./pages/About/About";
 import Events from "./pages/Events/Events";
+import Upcoming from "./pages/Upcoming/Upcoming";
 
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <Hero />
       <About />
       <Events />
+      <Upcoming />
     </main>
   );
 };
