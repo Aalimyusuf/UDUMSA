@@ -66,7 +66,7 @@ const UDUMSANews: React.FC = () => {
   return (
     <section className="relative min-h-screen w-full bg-white font-sans overflow-hidden py-24 px-6 md:px-12 lg:px-24">
       
-      <div className="absolute left-1/2 top-1/2 w-50 h-50 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#9D225E] blur-[100px] z-0"></div>
+      <div className="absolute left-1/2 top-1/2 w-150 h-150 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#9D225E]/50 blur-[100px] z-0"></div>
 
       <div className="mx-auto max-w-7xl z-10 relative">
         
